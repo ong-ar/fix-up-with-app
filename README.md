@@ -30,3 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - [ ] graphql 통신
 - [ ] file upload (image)
+
+## learn
+
+- [ ] components stateless / stateful
